@@ -1,7 +1,7 @@
 https://npe.cm
 
 
-Explore more details about our products:
+Explore details of our products:
 
 [Fiori Tracker](https://fioritracker.org)
 
